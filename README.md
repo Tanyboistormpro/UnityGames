@@ -2,11 +2,11 @@
 Games created by gamdev you don't know
 
 Created by Unity Engine 
- Using C#
+ Using  language C#
 
 Credits to 
 - Visual studio
 - Unity GameEngine
 - **Brackeys YT**
-- Languages **C, C++** and **C#**
+- Languages **C**, **C++** and **C#**
            
